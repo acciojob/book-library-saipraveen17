@@ -7,9 +7,10 @@ h1{text-align:center;}
 	background-color:#ffffff;
 	widht:200px;
 }
-button{
+.book div{
 	background-color:#2ecc71;
 	border-radius:20px;
+	color:white;
 }
 p{
 	color:#777777;
